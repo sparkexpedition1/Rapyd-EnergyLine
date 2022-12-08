@@ -6,7 +6,7 @@ Climate saving energy farming like solar, windmill, biogas etc. is becoming very
 
 There are huge costs , delays and risks associated for extending the legacy payment platforms and onboarding customers . The need os tfor these new generation climate saving payment needs, and this is a major cause of concern..
 
-# Our solution for this problem![image](https://user-images.githubusercontent.com/61966148/206515515-4edbf8d8-b330-4189-a9fc-89c8262d8787.png)
+# Our solution for this problem!
 
 We are developing a next generation quick “Customer Onboarding, Energy Calculation and Quick Payments Platform” powered by Google Cloud + Rapyd API technologies.. A combination of cloud native, microservices and Rapyd payment API is our unique differentiator !
 
