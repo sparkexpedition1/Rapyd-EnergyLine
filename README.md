@@ -13,8 +13,8 @@ We are developing a next generation quick “Customer Onboarding, Energy Calcula
 This platform enables onboarding of small companies, energy consumers, agents and compliance teams onto a single platform and facilitate payments within minutes ! 
 
 # Hightlights
-## 180+ Rapyd API applied
-Explored 180+ API and already integrated around 100 API into the framework
+## 180+ Rapyd API applicable
+Explored all 215 API and found 180+ API applicable for the framework. Already integrated around 100 API into the framework
 
 ## Cloud Native
 Built for the next generation Cloud environments leveraging Google Cloud, Google Workspace and Rapyd API
